@@ -1,9 +1,9 @@
 # 🌥 Weather Extension 🌥
-### Extensão que mostra o tempo real no seu navegador!
+### Extensão que mostra o clima no seu navegador!
 
 Já pensou em trabalhar, estudar ou apenas navegar pela internet sem se preocupar com o tempo lá fora? Ou ainda descobrir a temperatura neste exato momento que te ajudará a planejar a roupa que você vai levar para o compromisso sem ficar naquele "põe casaco e tira casaco"?
 
-Desenvolvi uma extenção para o Chrome que mostra a temperatura de São Paulo de forma simples, prática e cheia de estilo. Não será preciso abrir aba ou pesquisar, tudo vai estar na sua frente com um clique.
+Desenvolvi uma extenção para o Chrome que mostra o clima de São Paulo de forma simples, prática e cheia de estilo. Não será preciso abrir aba ou pesquisar, tudo estará na sua frente com um clique.
 
 ### 🌧 Organização:
 - [x] Descisão do tema.
@@ -53,16 +53,17 @@ Para testar a extensão dentro do Chrome vá em chrome://extensions/ ou por meio
 ➫ **Habilite o Modo do desenvolvedor** depois clique em ...  
 ➫ **Carregar sem Compactação** e selecione o caminho do diretório onde estão os arquivos do seu projeto.
 
-//////imagem ////
+![extensão](https://user-images.githubusercontent.com/71906862/116840273-999ea380-abab-11eb-97a8-85115cb518ad.PNG)
 
 ➫ **Ative a extensão e fixe na sua barra de navegação**
 
 ### ☀ Resultado:
 
-//imagem
+![extensão_tempo](https://user-images.githubusercontent.com/71906862/116840274-9a373a00-abab-11eb-804f-c4caf984b29b.PNG)
+
 
 #### ❥ Agradecimentos Especiais:
 
 Tem horas que o bloqueio criativo aparece e inciste em ficar, porém é nesses momentos que encontramos sempre a pessoa certa para dar o emburranzinho que precisamos para tirar o projeto do papel e torná-lo realidade. 
-Gostaria de agradecer ao Lucas Galdino pelo apoio e paciência.
+Gostaria de agradecer ao Lucas Galdino pelo apoio e paciência.  
 GitHub: https://github.com/LucasGaldinno
