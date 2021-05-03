@@ -1,0 +1,28 @@
+#tempo{
+    width: 194px;
+    height: 170px;
+
+}
+
+h5{
+    font-size: 15px;
+    font-family: 'Roboto Slab', serif;
+    color: midnightblue;
+}
+
+h2{
+    font-size: 18px;
+    font-family: 'Roboto Slab', serif;
+    color: midnightblue;
+    margin-left: 22px;
+}
+
+body{
+    background: url('./logo.jpg');
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    margin-left: 16px;
+}

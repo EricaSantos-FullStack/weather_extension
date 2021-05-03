@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Weather Extension",
+    "version": "0.1",
+    "author": "EricaSantos-FullStack https://github.com/EricaSantos-FullStack",
+    "description": "Extensão do Chrome que mostra o clima de São Paulo de forma simples, prática e cheia de estilo.",
+
+     "browser_action": {
+      "default_icon": "myicon.png",
+      "default_popup": "index.html"
+      }
+
+}
