@@ -6,6 +6,7 @@ Já pensou em trabalhar, estudar ou apenas navegar pela internet sem se preocupa
 Desenvolvi uma extenção para o Chrome que mostra o clima de São Paulo de forma simples, prática e cheia de estilo. Não será preciso abrir aba ou pesquisar, tudo estará na sua frente com um clique.
 
 ### 🌧 Organização:
+____________________
 - [x] Descisão do tema.
 - [x] Estudo sobre criação de extensão para navegadores.
 - [x] Ativar o modo do desenvolvedor.
@@ -15,6 +16,7 @@ Desenvolvi uma extenção para o Chrome que mostra o clima de São Paulo de form
 - [x] Teste 1 - 2.
 
 ### 🌦 Estrutura do Projeto:
+____________________
 ~~~
 manifest.json
 content.js
@@ -23,6 +25,7 @@ index.css
 ~~~
 
 ### 🌥 Configuração do Projeto:
+____________________
 O arquivo mais importante do nosso projeto é o manifest.json. Ele é o ponto de partida de qualquer extensão. Nele descrevemos todas as propriedades do nosso projeto desde o seu nome, autor, versão e até mesmo quais permissões ele irá solicitar e quais arquivos ele irá importar.
 
 ~~~json
@@ -48,6 +51,7 @@ O arquivo mais importante do nosso projeto é o manifest.json. Ele é o ponto de
 ➫ **browser_action:** Nesta propriedade dizemos ao Chrome qual é o comportamento padrão da nossa extensão. Sendo o *default_popup* para sempre que o usuário clicar no ícone da extensão, uma janelinha abrirá e o *deafult_icon* para incluir um icone a sua aplicação.
 
 ### 🌤 Testando a Extensão:
+_____________________
 Para testar a extensão dentro do Chrome vá em chrome://extensions/ ou por meio do caminho: Menu > Mais Ferramentas > Extensões.
 
 ➫ **Habilite o Modo do desenvolvedor** depois clique em ...  
@@ -58,8 +62,10 @@ Para testar a extensão dentro do Chrome vá em chrome://extensions/ ou por meio
 ➫ **Ative a extensão e fixe na sua barra de navegação**
 
 ### ☀ Resultado:
+_______________________
 
 ![extensão_tempo](https://user-images.githubusercontent.com/71906862/116840274-9a373a00-abab-11eb-804f-c4caf984b29b.PNG)
+
 
 
 #### ❥ Agradecimentos Especiais:
